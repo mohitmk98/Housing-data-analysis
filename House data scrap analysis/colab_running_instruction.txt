@@ -1,0 +1,6 @@
+1)find the cell where this code is written : "your_name" section
+2)execute the next 5 cells by pressing 'shift+enter' key together
+3)process may take upto 4-5 hours
+4)after all the designated five cells execute, notice the new csv files alongside the 'sample_data' folder
+5)download the csv files
+6)while one cell is being executed, running other cell simultaneously queues its execution untill the previuos cell is finished
